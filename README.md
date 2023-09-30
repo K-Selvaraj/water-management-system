@@ -1,1 +1,1 @@
-# water-management-system
+# Water Management System
